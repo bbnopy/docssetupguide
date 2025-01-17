@@ -9,6 +9,7 @@
     <toc-element topic="How-to.topic">
         <toc-element topic="Apps.topic">
             <toc-element topic="7-Zip.topic"/>
+            <toc-element topic="Adobe-Express.topic"/>
         </toc-element>
     </toc-element>
 </instance-profile>

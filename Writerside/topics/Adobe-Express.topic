@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Adobe-Express" id="Adobe-Express">
+
+    <primary-label ref="Графіка"/>
+
+    <note>Створюйте дивовижні роботи, що виділяються завдяки генеративному штучному інтелекту на базі Adobe Firefly. Створюйте флаєри, TikToks, резюме та ролики за допомогою нового універсального Adobe Express. Творіть простіше. Мрійте про більше.</note>
+
+    <chapter title="Про програму" id="про-програму">
+        <table>
+            <tr>
+                <td>Параметр</td>
+                <td>Значення</td>
+            </tr>
+            <tr>
+                <td><b>:computer: розробник</b></td>
+                <td>Adobe Inc.</td>
+            </tr>
+            <tr>
+                <td><b>сайт</b></td>
+                <td><a href="https://new.express.adobe.com/">new.express.adobe.com</a></td>
+            </tr>
+        </table>
+    </chapter>
+
+    <chapter title=":inbox_tray: Встановлення" id="встановлення">
+        <tabs group="install">
+            <tab id="general" title="Загальні" group-key="general">
+                <note>Використовується в браузері тому підходить для будь-якої системи, але поки що підтримуються останні версії таких браузерів <b>Safari</b>, <b>Google Chrome</b> або <b>Microsoft Edge</b>.</note>
+            </tab>
+            <tab id="windows" title=":desktop_computer: Windows" group-key="windows">
+                :inbox_tray: встановити з <b>Microsoft Store</b> за <a href="https://apps.microsoft.com/detail/9p94lh3q1cp5?ocid=webpdpshare">:link: посиланням</a>
+            </tab>
+            <tab id="android" title="Android" group-key="android">
+                :inbox_tray: встановлення з <b>Google Play</b> за <a href="https://play.google.com/store/apps/details?id=com.adobe.spark.post&amp;pcampaignid=web_share">:link: посиланням</a>
+            </tab>
+        </tabs>
+    </chapter>
+</topic>

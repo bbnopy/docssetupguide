@@ -18,4 +18,8 @@
         <description>Created after removal of "7-Zip" from Docs Setup Guide</description>
         <accepts>7-Zip.html</accepts>
     </rule>
+    <rule id="21aaf0af">
+        <description>Created after removal of "Adobe-Express" from Docs Setup Guide</description>
+        <accepts>Adobe-Express.html</accepts>
+    </rule>
 </rules>
