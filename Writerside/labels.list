@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <primary-label id="Графіка" name="Графіка" short-name="г">:open_file_folder: Розділ :framed_picture: Графіка</primary-label>
+    <primary-label id="Інструменти" name="Інструменти" short-name="і">:open_file_folder: Розділ :toolbox: Інструменти</primary-label>
+    <secondary-label id="windows" name="windows" color="blue">oc Windows</secondary-label>
+    <secondary-label id="linux" name="linux" color="tangerine">ос Linux</secondary-label>
+    <secondary-label id="android" name="android" color="strawberry">ос Android</secondary-label>
+</labels>
